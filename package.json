@@ -1,0 +1,21 @@
+{
+  "name": "covidbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "M4theus|Clark|Coyote",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.1.1",
+    "jsdom": "^16.2.2",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.3",
+    "ora": "^4.0.3",
+    "request": "^2.88.2",
+    "sulla": "^2.3.5",
+    "sulla-hotfix": "^1.8.42"
+  }
+}
