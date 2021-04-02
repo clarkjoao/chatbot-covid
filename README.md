@@ -22,11 +22,16 @@ APIS:
 - https://api.apify.com/v2
 
 
-## Demonstração
+## 🚧 Demonstração
+<br/>
+<br/>
+<img width="525px" align="center" src="https://i.imgur.com/My3oDOw.png"/>
+<br/>
+<br/>
 
-[Assista o video no youtube](https://youtu.be/HJmBFN4a8Ek)
+[Assista o video completo no youtube](https://youtu.be/HJmBFN4a8Ek)
 ou
-[Assista o video no linkedin](https://www.linkedin.com/posts/joaoluisclark_chatbots-covid19-nodejs-activity-6654463807705931777-5kr2)
+[Assista o video completo no linkedin](https://www.linkedin.com/posts/joaoluisclark_chatbots-covid19-nodejs-activity-6654463807705931777-5kr2)
 
 ## 📚 Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
