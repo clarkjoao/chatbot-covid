@@ -10,7 +10,7 @@
   "dependencies": {
     "common-tags": "^1.8.0",
     "discord.js": "^12.1.1",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "moment": "^2.24.0",
     "nodemon": "^2.0.3",
     "ora": "^4.0.3",
